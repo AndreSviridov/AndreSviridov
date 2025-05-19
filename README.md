@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there. I'm Andrey 👋
+- 🌱 For over 10 years, I worked at the international company OAO "Sakhalin Energy Investment Company Ltd." on the "Sakhalin-2" project;
+- ⚡ 2025: SQL and Python skills are acquired through "Yandex Practicum" ([diploma](https://disk.yandex.ru/i/IWEU3GhwnCTP5Q));
+- 🔭 I’m currently looking for opportunities for work and self-improvement in analytical sphere;
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/andrey--sviridov/), [Telegram](https://t.me/andre_sviridov)
+
 
 <!--
 **AndreSviridov/AndreSviridov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
